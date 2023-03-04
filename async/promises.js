@@ -43,6 +43,7 @@ function hablar(nombre){
 }
 
 //----
+// Siempre despues de un then un catch
 console.log('Iniciando el proceso ...');
 hola('Carlos')
     //.then(nombre => { return adios(nombre); })
