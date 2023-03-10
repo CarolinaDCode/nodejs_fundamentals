@@ -44,6 +44,3 @@ proceso.on('exit', function(){
     console.log('El proceso termino')
     console.log(process.killed)
 })
-
-
-//FALTA --
